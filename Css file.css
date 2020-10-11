@@ -1,0 +1,95 @@
+*{
+   margin:0px;
+   padding: 0px;
+}
+
+#one{
+   font-size: 31px;
+   padding-top: 100px;
+}
+body{
+   margin: 0px;
+}
+div:nth-of-type(1) p{
+   padding-top: 25px;
+   background-color: rgba(126, 195, 241, 0.753);
+   padding-left: 50px;
+   padding-bottom: 14px;
+}
+
+#four {
+   font-size: 31px;
+   padding-top: 25px;
+   text-align: center;
+   color: rgb(175, 205, 236);
+}
+
+div:nth-of-type(2) div:nth-of-type(2){
+   font-size: 19px;
+   margin-top: 45px;
+   background-color: rgba(126, 195, 241, 0.753);
+   border-radius: 20px;
+   padding-top: 45px;
+   padding-bottom: 40px;
+   margin-right: 10px;
+   margin-left: 900px;
+}
+#five {
+   width: 75px;
+   outline: none;
+}
+
+#six{
+   margin-top: 7px;
+   width: 75px;
+   outline: none;
+}
+.taking{
+   margin-left: 73px;
+}
+#seven{
+   width: 75px;
+}
+#eight{
+   background-color: darkgray;
+}
+#nine{
+   font-size: 20px;
+}
+div:nth-of-type(2) div:nth-of-type(1){
+   font-size: 31px;
+   float: left;
+   margin-left: 10px;
+   margin-top: 48px;
+   padding-bottom: 100px;
+   max-width: 400px;
+}
+#eve{
+   margin-left: 56px;
+   font-size: 24px;
+   padding-left: 10px;
+}
+#teachers{
+   font-size: 25px;
+   background-color:lightseagreen;
+   font-style: initial;
+}
+#eleven{
+   font-size: 22px;
+   font-weight: 400;
+   color:#a3c6da;
+}
+b{
+   color: rgba(126, 195, 241, 0.753);
+   font-size: 31px;
+}
+body{
+   background-image: url(https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg?size=626&ext=jpg);
+   background-size: cover;
+}
+a{
+   text-decoration: none;
+}
+ #twelve {
+   color: rgb(165, 213, 228);
+}
