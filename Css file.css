@@ -2,6 +2,10 @@
    margin:0px;
    padding: 0px;
 }
+#log{
+   float: left;
+   justify-content: space-between;
+}
 
 #one{
    font-size: 31px;
